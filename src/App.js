@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>this is yoga app</h1>
+      <h1 className='bg-primary'>this is yoga app</h1>
+      <h1>bootstrap install</h1>
     </div>
   );
 }
