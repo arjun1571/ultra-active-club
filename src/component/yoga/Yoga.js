@@ -4,6 +4,7 @@ import "./Yoga.css"
 
 const Yoga = () => {
     const [data,setData]=useState([]);
+    const [cart,setCart]=useState([]);
 
     useEffect(()=>{
         fetch("data.json")
@@ -13,6 +14,8 @@ const Yoga = () => {
 
     const handelAddToCart=(item)=>{
         console.log(item);
+        const newCart=[...cart,item];
+        setCart(newCart);
     }
     return (
         <div className='container'>
@@ -22,7 +25,7 @@ const Yoga = () => {
                 }
             </div>
             <div className="cart">
-                <h2>this is cart</h2>
+                <h2>this is cart:{cart.length}</h2>
             </div>
         </div>
     );
