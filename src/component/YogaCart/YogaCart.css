@@ -1,8 +1,8 @@
 .cart-container img{
     height: 288px;
-    width: 288px;
+    width: 100%;
     border-radius: 10px;
-    margin-left: 4px;
+
     
 }
 .cart-container{
@@ -12,5 +12,11 @@
     border-radius: 5px;
 }
 .cart-text{
-    margin-left: 10px;
+margin: 8px;
+
+}
+.button-cart{
+    width: 100%;
+    background-color: tomato;
+    color: white;
 }

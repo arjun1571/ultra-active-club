@@ -11,7 +11,7 @@ const YogaCart = (props) => {
             <p>{description}</p>
             <p>For Age: {age}</p>
             <p>Time required: {time}s</p>
-            <button>Add to cart</button>
+            <button className='button-cart'>Add to cart</button>
             </div>
             
         </div>
