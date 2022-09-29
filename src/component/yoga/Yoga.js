@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import ExarsiceTime from '../ExarsiceTime/ExarsiceTime';
 import YogaCart from '../YogaCart/YogaCart';
 import YogaSiteCart from '../YogaSiteCart/YogaSiteCart';
 import "./Yoga.css"
@@ -27,9 +28,9 @@ const Yoga = () => {
             <div className="cart">
                 <YogaSiteCart></YogaSiteCart>
                 <h2 className='mt-5'>Exercise Details</h2>
+                <ExarsiceTime cart={cart}></ExarsiceTime>
                 <div>
-                    <h5 className='time-style'>Exercise time </h5>
-                    <h5 className='time-style'>Break time</h5>
+                    <h5 className='time-style'>Break time :</h5>
                     <button className='button-cart mt-2'>Activity Compleate</button>
                 </div>
                 
