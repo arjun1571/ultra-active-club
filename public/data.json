@@ -1,0 +1,51 @@
+
+[
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "img": "https://www.ekhartyoga.com/media/image/articles/Feel-good-morning-yoga.jpg",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "age": "20-26",
+      "time": 30
+    },
+    {
+      "id": 2,
+      "name": "Leanne Graham",
+      "img": "https://www.ekhartyoga.com/media/image/articles/Well-rounded-flow.jpg",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "age": "18-26",
+      "time": 30
+    },
+    {
+      "id": 3,
+      "name": "Leanne Graham",
+      "img": "https://www.ekhartyoga.com/media/image/articles/30-min-soothing-Yin.jpg",
+      "description": "Amet minim mollit non deserunt ullamco est si aliqua dolor do amet sint.",
+      "age": "16-25",
+      "time": 30
+    },
+    {
+      "id": 4,
+      "name": "Leanne Graham",
+      "img": "https://www.ekhartyoga.com/media/image/articles/Chakras-Meridians-and-Asana.jpg",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "age": "19-21",
+      "time": 30
+    },
+    {
+      "id": 5,
+      "name": "Leanne Graham",
+      "img": "https://www.ekhartyoga.com/media/image/articles/Joy-of-Yoga-program.jpg",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "age": "18-25",
+      "time": 30
+    },
+    {
+      "id": 6,
+      "name": "Leanne Graham",
+      "img": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/656748/settings_images/BPwkbnzWRRS9pKGmMSYH_061A9857-Edit2.jpg",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "age": "20-25",
+      "time": 30
+    }
+  ]

@@ -1,0 +1,14 @@
+.header-nav{
+    height: 80px;
+    background-color: aqua;
+    display: flex;
+    color: white;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.header-nav h1{
+    margin-left: 20px;
+}
+.header-nav img{
+    width: 100px;
+}

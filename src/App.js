@@ -1,10 +1,12 @@
 import './App.css';
+import Header from './component/Header/Header';
+import Yoga from './component/yoga/Yoga';
 
 function App() {
   return (
     <div className="App">
-      <h1 className='bg-primary'>this is yoga app</h1>
-      <h1>bootstrap install</h1>
+      <Header></Header>
+      <Yoga></Yoga>
     </div>
   );
 }

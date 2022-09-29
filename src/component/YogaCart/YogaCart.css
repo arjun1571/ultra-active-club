@@ -1,0 +1,16 @@
+.cart-container img{
+    height: 288px;
+    width: 288px;
+    border-radius: 10px;
+    margin-left: 4px;
+    
+}
+.cart-container{
+    height: 500px;
+    width: 300px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.cart-text{
+    margin-left: 10px;
+}
