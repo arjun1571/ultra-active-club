@@ -10,11 +10,15 @@ const Yoga = () => {
         .then(res=>res.json())
         .then(data => setData(data))
     },[])
+
+    const handelAddToCart=()=>{
+        console.log("clik");
+    }
     return (
         <div className='container'>
             <div className="yoga-container">
                 {
-                    data.map(data=><YogaCart data={data} key={data.id}></YogaCart>)
+                    data.map(data=><YogaCart data={data} key={data.id} handelAddToCart={handelAddToCart}></YogaCart>)
                 }
             </div>
             <div className="cart">
