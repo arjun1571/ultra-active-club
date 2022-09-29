@@ -1,0 +1,9 @@
+.site-cart img{
+    height: 70px;
+    width: 70px;
+    
+}
+.site-cart{
+    display: flex;
+    align-items: center;
+}

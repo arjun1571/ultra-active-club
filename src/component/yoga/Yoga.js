@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import YogaCart from '../YogaCart/YogaCart';
+import YogaSiteCart from '../YogaSiteCart/YogaSiteCart';
 import "./Yoga.css"
 
 const Yoga = () => {
@@ -26,6 +27,7 @@ const Yoga = () => {
             </div>
             <div className="cart">
                 <h2>this is cart:{cart.length}</h2>
+                <YogaSiteCart></YogaSiteCart>
             </div>
         </div>
     );
