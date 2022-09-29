@@ -14,7 +14,6 @@ const Yoga = () => {
     },[])
 
     const handelAddToCart=(item)=>{
-        console.log(item);
         const newCart=[...cart,item];
         setCart(newCart);
     }
@@ -28,6 +27,7 @@ const Yoga = () => {
             <div className="cart">
                 <h2>this is cart:{cart.length}</h2>
                 <YogaSiteCart></YogaSiteCart>
+                
             </div>
         </div>
     );
