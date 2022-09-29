@@ -11,8 +11,8 @@ const Yoga = () => {
         .then(data => setData(data))
     },[])
 
-    const handelAddToCart=()=>{
-        console.log("clik");
+    const handelAddToCart=(item)=>{
+        console.log(item);
     }
     return (
         <div className='container'>

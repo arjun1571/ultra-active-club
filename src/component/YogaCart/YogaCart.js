@@ -14,7 +14,7 @@ const YogaCart = (props) => {
             <p>{description}</p>
             <p>For Age: {age}</p>
             <p>Time required: {time}s</p>
-            <button onClick={handelAddToCart}  className='button-cart'>Add to cart</button>
+            <button onClick={()=>handelAddToCart(props.data)}  className='button-cart'>Add to cart</button>
             </div>
             
         </div>
