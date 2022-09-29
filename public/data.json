@@ -2,49 +2,49 @@
 [
     {
       "id": 1,
-      "name": "Leanne Graham",
+      "name": "A quick and sweet",
       "img": "https://www.ekhartyoga.com/media/image/articles/Feel-good-morning-yoga.jpg",
-      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.and then to do.",
       "age": "20-26",
       "time": 30
     },
     {
       "id": 2,
-      "name": "Leanne Graham",
+      "name": "Yoga-based kids",
       "img": "https://www.ekhartyoga.com/media/image/articles/Well-rounded-flow.jpg",
-      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "description": "For exhausted parents, frustrated teachers, anyone wishing to elevate their ability.",
       "age": "18-26",
-      "time": 30
+      "time": 45
     },
     {
       "id": 3,
-      "name": "Leanne Graham",
+      "name": "Teaching Accessible",
       "img": "https://www.ekhartyoga.com/media/image/articles/30-min-soothing-Yin.jpg",
-      "description": "Amet minim mollit non deserunt ullamco est si aliqua dolor do amet sint.",
+      "description": "Learn how to adapt and make your classes, sequences, language and teaching spaces.",
       "age": "16-25",
-      "time": 30
+      "time": 60
     },
     {
       "id": 4,
-      "name": "Leanne Graham",
+      "name": "Functional anatomy",
       "img": "https://www.ekhartyoga.com/media/image/articles/Chakras-Meridians-and-Asana.jpg",
-      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "description": "Learn what functional yoga is and how this approach can liberate you and your students from focusing .",
       "age": "19-21",
-      "time": 30
+      "time": 35
     },
     {
       "id": 5,
-      "name": "Leanne Graham",
+      "name": "Fascia and Nervous",
       "img": "https://www.ekhartyoga.com/media/image/articles/Joy-of-Yoga-program.jpg",
-      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "description": "Take a deep dive into a fascia-aware and nervous system-informed approach to yoga.",
       "age": "18-25",
       "time": 30
     },
     {
       "id": 6,
-      "name": "Leanne Graham",
+      "name": "Wired for Connection",
       "img": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/656748/settings_images/BPwkbnzWRRS9pKGmMSYH_061A9857-Edit2.jpg",
-      "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+      "description": "Techniques to cultivate true intimacy.programming and learn exercises and techniques .",
       "age": "20-25",
       "time": 30
     }
