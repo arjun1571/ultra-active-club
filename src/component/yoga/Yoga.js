@@ -25,8 +25,14 @@ const Yoga = () => {
                 }
             </div>
             <div className="cart">
-                <h2>this is cart:{cart.length}</h2>
                 <YogaSiteCart></YogaSiteCart>
+                <h2 className='mt-5'>Exercise Details</h2>
+                <div>
+                    <h5 className='time-style'>Exercise time </h5>
+                    <h5 className='time-style'>Break time</h5>
+                    <button className='button-cart mt-2'>Activity Compleate</button>
+                </div>
+                
                 
             </div>
         </div>
